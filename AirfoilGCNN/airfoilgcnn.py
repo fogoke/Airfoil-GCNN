@@ -4,7 +4,6 @@
 import os.path as osp
 import torch
 import torch.nn.functional as F
-# from torch_geometric.datasets import TUDataset
 from torch_geometric.data import Data,DataLoader
 from torch_geometric.nn import GraphConv, TopKPooling,  GCNConv, avg_pool, TAGConv, SAGEConv
 from torch_geometric.nn import global_mean_pool as gap, global_max_pool as gmp
