@@ -36,7 +36,7 @@ The following packages are required in order to run the associated code:
 
 
 
-These packages can be installed independently, or all at once by running ```pip install -r requirements.txt```. We recommend that these packages are installed in a new conda environment to avoid clashes with existing package installations. Instructions on defining a new conda environment can be found ![here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), and more information on the Pytorch-Geometric installation process can also be found ![here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html).
+These packages can be installed independently, or all at once by running ```pip install -r requirements.txt```. We recommend that these packages are installed in a new conda environment to avoid clashes with existing package installations. Instructions on defining a new conda environment can be found [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html), and more information on the Pytorch-Geometric installation process can also be found [here](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html).
 
 
 
